@@ -2,4 +2,12 @@
 	padding: 56px 20px;
 	min-height: 100%;
 	width: 100%;
+	background-image: url("../../assets/images/background.jpg");
+	background-color: black; /* fallback color */
+	background-position: center;
+	background-size: cover;
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(100%);
+
+
 }
